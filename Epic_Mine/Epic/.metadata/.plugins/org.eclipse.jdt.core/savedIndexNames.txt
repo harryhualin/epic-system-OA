@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/Daphne/Documents/workspace/Epic/.metadata/.plugins/org.eclipse.jdt.core
+1793922395.index
